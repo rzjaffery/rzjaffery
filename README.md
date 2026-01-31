@@ -72,9 +72,9 @@ Computer Science graduate building real-world applications across mobile, web, a
 
 | Platform | Link |
 |----------|------|
-| 🔗 LinkedIn | [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/rayyanz7) |
-| 📧 Email | [your_email@gmail.com](mailto:rzjaffery7@gmail.com) |
-| 💼 Portfolio | [your-portfolio-link.com](#) |
+| 🔗 LinkedIn | [linkedin.com/in/rayyanz7](https://linkedin.com/in/rayyanz7) |
+| 📧 Email | [rzjaffery7@gmail.com](mailto:rzjaffery7@gmail.com) |
+<!-- | 💼 Portfolio | [your-portfolio-link.com](#) |
 
 ---
 
