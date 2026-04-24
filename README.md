@@ -60,9 +60,9 @@ Computer Science graduate building real-world applications across mobile, web, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzjaffery&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rzjaffery&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
 </div>
 
