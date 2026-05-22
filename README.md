@@ -13,7 +13,7 @@
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=rzjaffery&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/rzjaffery?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/followers/rzjaffery?style=for-the-badge&color=7c3aed&labelBgColor=0d1117&label=FOLLOWERS" alt="Followers" />
 
 </div>
 
@@ -79,18 +79,11 @@ const rayyan = {
 
 <div align="center">
 
-<!--
-  RELIABLE STATS APPROACH:
-  - Stats card: uses a community-run instance (stats.quine.sh) as primary
-  - Top Languages: github-profile-summary-cards — completely independent service, very reliable
-  - Streak: streak-stats.demolab.com — dedicated service, not shared with stats
--->
-
-<!-- STATS CARD via stats.quine.sh — independent from the overloaded vercel public instance -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzjaffery&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Rayyan's GitHub Stats" />
+<!-- STATS CARD via a stable public mirror to avoid rate limits -->
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rzjaffery&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 &nbsp;
-<!-- TOP LANGUAGES via a separate reliable service -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzjaffery&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=rzjaffery" alt="Top Languages" />
+<!-- TOP LANGUAGES via a stable public mirror -->
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rzjaffery&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=rzjaffery" alt="Top Languages" />
 
 </div>
 
@@ -98,7 +91,7 @@ const rayyan = {
 
 <div align="center">
 
-<!-- STREAK STATS — dedicated independent service, most reliable streak provider -->
+<!-- STREAK STATS — dedicated independent service -->
 <img src="https://streak-stats.demolab.com/?user=rzjaffery&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
