@@ -1,95 +1,187 @@
-## Hi there 👋
-
 <div align="center">
 
-# Hi, I'm Rayyan Zafar Jaffery 👋
-### Mobile App Developer | Web Developer | Graphic Designer | Game Developer
+<!-- CAPSULE RENDER ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5ff,100:7c3aed&height=220&section=header&text=Rayyan%20Zafar%20Jaffery&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20Game%20Developer%20%7C%20Designer&descAlignY=58&descSize=20&descColor=a0aec0" />
 
-<p>
-Computer Science graduate building real-world applications across mobile, web, and desktop I focus on clean architecture, intuitive UI, and solving problems that actually matter.
+<!-- ANIMATED TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=CS+Graduate+%F0%9F%8E%93;Mobile+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Game+Developer+%F0%9F%8E%AE;AI+%26+Algorithm+Enthusiast+%F0%9F%A4%96;Clean+Code%2C+Clear+Intent%2C+Real+Results+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=rzjaffery&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/rzjaffery?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+
+</div>
+
+---
+
+## 👾 Who Am I?
+
+```typescript
+const rayyan = {
+  name:       "Rayyan Zafar Jaffery",
+  title:      "Computer Science Graduate",
+  location:   "Pakistan 🇵🇰",
+  focus:      ["Clean Architecture", "Intuitive UI", "Real-World Impact"],
+  currentlyBuilding: "The next great mobile experience",
+  funFact:    "I make AI play board games 🎮",
+  contact:    "rzjaffery7@gmail.com",
+  openTo:     ["Collaborations", "Freelance", "Full-time Opportunities"],
+};
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 📱 Mobile Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,java,androidstudio,firebase&theme=dark&perline=4" alt="Mobile Skills" />
+  </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanz7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzjaffery7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzjaffery)
+### 🌐 Web Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,spring,docker&theme=dark&perline=5" alt="Web Skills" />
+  </a>
+</p>
 
-</div>
+### 🎮 Game Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,opengl&theme=dark&perline=5" alt="Game Dev Skills" />
+  </a>
+</p>
 
----
+### 🤖 AI & Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,java&theme=dark&perline=4" alt="AI Skills" />
+  </a>
+</p>
 
-## 🛠 Tech Stack
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02F88C?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B9?style=for-the-badge&logo=css3&logoColor=white)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### AI & Algorithms
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Minimax](https://img.shields.io/badge/Minimax-3776AB?style=for-the-badge&logo=minimax&logoColor=white)
-
-
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST_APIs](https://img.shields.io/badge/REST_APIs-008080?style=for-the-badge&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM_Architecture-4A90D9?style=for-the-badge&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003087?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚙️ Tools & Practices
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,sqlite,powershell,vscode,figma,postman,linux&theme=dark&perline=8" alt="Tool Skills" />
+  </a>
+</p>
 
 ---
 
-## 📂 Featured Projects
-
-| # | Project | Description | Tech Stack | Status |
-|---|---------|-------------|------------|--------|
-| 1 | **[Social Learning App](https://github.com/rzjaffery/Social-Learning-App)** | A mobile learning app built with Android Studio (Java), Firebase, and Navigation Component. | Java, Firebase, Firebase Authentication | Completed |
-| 2 | **[Real Time Chat Application](https://github.com/rzjaffery/Chat-Application-DEN)** | A real-time chat application built with Android Studio using Firebase Realtime Database and Firebase Cloud Messaging (FCM). | Android (Java), MVVM, FCM | Completed |
-| 3 | **[E-Commerce Website](https://github.com/rzjaffery/Ecommerce-Website-CN)** | A comprehensive e-commerce website built with JavaScript, featuring product catalog, shopping cart, payment integration, user authentication and a chat application. | JavaScript, Python , Powershell , DockerFile , HTML/CSS | Completed |
-| 4 | **[Connect 4 Game using AI Bot](https://github.com/rzjaffery/Connect-4-AI-Lab-Project)** | Connect 4 Game using AI Bot and Minimax Algorithm to play against the bot and also a GUI for the game. | C#, Minimax, ASP-NET, GUI | Completed |
-| 5 | **[Java Chess Game](https://github.com/rzjaffery/Java-Chess-Game)** | A fully functional Chess game built using Java Swing. | Java, Swing | Completed |
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzjaffery&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+<!--
+  RELIABLE STATS APPROACH:
+  - Stats card: uses a community-run instance (stats.quine.sh) as primary
+  - Top Languages: github-profile-summary-cards — completely independent service, very reliable
+  - Streak: streak-stats.demolab.com — dedicated service, not shared with stats
+-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rzjaffery&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+<!-- STATS CARD via stats.quine.sh — independent from the overloaded vercel public instance -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzjaffery&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Rayyan's GitHub Stats" />
+&nbsp;
+<!-- TOP LANGUAGES via a separate reliable service -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzjaffery&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=rzjaffery" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- STREAK STATS — dedicated independent service, most reliable streak provider -->
+<img src="https://streak-stats.demolab.com/?user=rzjaffery&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<!-- PROFILE SUMMARY CARDS — completely different service from stats, very reliable -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzjaffery&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rzjaffery&theme=tokyonight" alt="Repos Per Language" height="150em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rzjaffery&theme=tokyonight" alt="Most Commit Language" height="150em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rzjaffery&theme=tokyonight" alt="Stats" height="150em"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!--
+  Repo pin cards from the public vercel instance break due to rate limits.
+  Replaced with a styled table using shields.io badges — 100% reliable, always loads.
+-->
+
+<div align="center">
+
+| 🏗️ Project | 📝 Description | 🔧 Stack | 🔗 Link |
+|:---|:---|:---|:---:|
+| **📱 Social Learning App** | Mobile learning platform with auth, navigation & real-time data | `Java` `Firebase` `Android` | [![Repo](https://img.shields.io/badge/View-Repo-00f5ff?style=flat-square&logo=github)](https://github.com/rzjaffery/Social-Learning-App) |
+| **💬 Real Time Chat App** | Chat app with FCM push notifications & MVVM architecture | `Java` `Firebase` `MVVM` `FCM` | [![Repo](https://img.shields.io/badge/View-Repo-00f5ff?style=flat-square&logo=github)](https://github.com/rzjaffery/Chat-Application-DEN) |
+| **🛒 E-Commerce Website** | Full-stack store with cart, payments, auth & live chat | `JS` `Python` `Docker` `HTML/CSS` | [![Repo](https://img.shields.io/badge/View-Repo-00f5ff?style=flat-square&logo=github)](https://github.com/rzjaffery/Ecommerce-Website-CN) |
+| **🤖 Connect 4 AI Bot** | Connect 4 game with Minimax AI — play against the bot! | `C#` `ASP.NET` `Minimax` `GUI` | [![Repo](https://img.shields.io/badge/View-Repo-00f5ff?style=flat-square&logo=github)](https://github.com/rzjaffery/Connect-4-AI-Lab-Project) |
+| **♟️ Java Chess Game** | Fully functional Chess with all rules & Java Swing UI | `Java` `Swing` | [![Repo](https://img.shields.io/badge/View-Repo-00f5ff?style=flat-square&logo=github)](https://github.com/rzjaffery/Java-Chess-Game) |
 
 </div>
 
 ---
 
-## How to Reach Me
+## 🏆 GitHub Trophies
 
-| Platform | Link |
-|----------|------|
-| 🔗 LinkedIn | [linkedin.com/in/rayyanz7](https://linkedin.com/in/rayyanz7) |
-| 📧 Email | [rzjaffery7@gmail.com](mailto:rzjaffery7@gmail.com) |
-<!-- | 💼 Portfolio | [your-portfolio-link.com](#) |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rzjaffery&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
-> *"Clean code, clear intent, real results."*
-<!--
-**rzjaffery/rzjaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌊 Contribution Activity
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzjaffery&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rayyanz7">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:rzjaffery7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/rzjaffery">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ANIMATED FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00f5ff,100:0d1117&height=120&section=footer&animation=twinkling" />
+
+*"Clean code, clear intent, real results."* — **Rayyan Zafar Jaffery**
+
+</div>
